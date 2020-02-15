@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maria/hubot-scripts-deploy.git"
+    "url": "git+https://https://github.com/Vicky-sastry/hubot-scripts-deploy.git"
   },
   "keywords": [
     "hubot",
@@ -18,9 +18,9 @@
   "author": "Maria Nita",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maria/hubot-scripts-deploy/issues"
+    "url": "https://github.com/Vicky-sastry/hubot-scripts-deploy/issues"
   },
-  "homepage": "https://github.com/maria/hubot-scripts-deploy#README.md",
+  "homepage": "https://github.com/Vicky-sastry/hubot-scripts-deploy#README.md",
   "dependencies": {
     "requestify": "^0.2.5",
     "cson": "^4.1.0"
